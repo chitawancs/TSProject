@@ -1,0 +1,48 @@
+{
+    "orderData": {
+        "sourceOrderId": "1234512345",
+        "date": "2/03/2020",
+        "shipTo": {
+            "name": "Chitawan Duangsai",
+            "phone": "0812345678",
+            "address": "1234 New Petchaburi Rd. Makkasan Ratchathewi Bangkok 10400",
+            "email": "meeh1234@gmail.com"
+        },        
+        "total": "16,080",
+        "totalAll": "16,120",
+        "items": [
+            {
+                "id": 3,
+                "name": "ADIDAS Ladies Black Adilette Slides",
+                "img": "https://sv1.picz.in.th/images/2020/03/11/QSeasP.jpg",
+                "price": "1,850",
+                "count": 1,
+                "total": "1,850"
+            },
+            {
+                "id": 2,
+                "name": "Adidas Yung-1 Men's Red",
+                "img": "https://sv1.picz.in.th/images/2020/03/11/QSeF8N.jpg",
+                "price": "3,560",
+                "count": 1,
+                "total": "3,560"
+            },
+            {
+                "id": 5,
+                "name": "Puma Alteration Kurve Men's Black",
+                "img": "https://sv1.picz.in.th/images/2020/03/11/QSeG9e.jpg",
+                "price": "5,900",
+                "count": 1,
+                "total": "5,900"
+            },
+            {
+                "id": 1,
+                "name": "New Balance Men's CM878",
+                "img": "https://sv1.picz.in.th/images/2020/03/11/QSemNv.jpg",
+                "price": "4,770",
+                "count": 1,
+                "total": "4,770"
+            }
+        ]   
+    }
+}
